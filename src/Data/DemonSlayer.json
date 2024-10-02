@@ -1,0 +1,592 @@
+[
+    {
+        "id": "A",
+        "type": "figure",
+        "availableProducts": [
+            {
+                "id": "A1",
+                "anime": "Demon Slayer",
+                "type": "figure",
+                "bgColor": "#fdf2f8",
+                "name": "Nezuko",
+                "image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg",
+                "price": 1200,
+                "stock": 20,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "A2",
+                "anime": "Demon Slayer",
+                "type": "figure",
+                "bgColor": "#fffded",
+                "name": "Zenitsu",
+                "image": "https://videogameheaven.com/wp-content/uploads/2020/12/Zenitsu-Agatsuma-Demon-Slayer-Kimetsu-no-Yaiba-Vol.-3-Figure-6.jpg",
+                "price": 1200,
+                "stock": 20,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "A3",
+                "anime": "Demon Slayer",
+                "type": "figure",
+                "bgColor": "#edfff8",
+                "name": "Giyu Tomioka",
+                "image": "https://m.media-amazon.com/images/I/61BwDH6yBhL._AC_SL1152_.jpg",
+                "price": 1200,
+                "stock": 20,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "A4",
+                "anime": "Demon Slayer",
+                "type": "figure",
+                "bgColor": "#fff4f4",
+                "name": "Tanjiro",
+                "image": "https://1.bp.blogspot.com/--KJZQ8FhEAw/X8507tH9O4I/AAAAAAAAu38/684kijf2iWwSq0pX4b_0NCqZeIDnfbUsACLcBGAsYHQ/s1600/1510-Tanjiro-Kamado-Final-Selection-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-1.jpg",
+                "price": 1200,
+                "stock": 20,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "A5",
+                "anime": "Demon Slayer",
+                "type": "figure",
+                "bgColor": "#f4f8ff",
+                "name": "Inoske!!",
+                "image": "https://imaginaire.com/fr/images/DEMON-SLAYER-FIGURINE-DE-INOSUKE-HASHIBIRA__Z-0190526031494.JPG",
+                "price": 1200,
+                "stock": 20,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "A6",
+                "anime": "Hunter X Hunter",
+                "type": "figure",
+                "bgColor": "#edfeff",
+                "name": "Kilua",
+                "image": "https://www.gamersheek.co.uk/images/hunter-x-hunter-pop-up-parade-killua-zaoldyeck-p26267-152699_medium.jpg",
+                "price": 1200,
+                "stock": 20,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            }
+        ]
+    },
+    {
+        "id": "B",
+        "type": "backPack",
+        "availableProducts": [
+            {
+                "id": "B1",
+                "anime": "Mix",
+                "type": "backPack",
+                "name": "Cool BackPack",
+                "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29563642/2024/5/15/cafe3b43-233f-4877-8230-5aa440cc5e641715774048363AnimeBackpackAhegaoPrintedBagforSchoolCollege1.jpg",
+                "price": 600,
+                "stock": 5,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "B2",
+                "anime": "Attack on titan",
+                "type": "backPack",
+                "name": "New Backpack for Girls",
+                "image": "https://th.bing.com/th/id/OIP.aDcSS17gi3md8zgDTkY-bwHaHa?rs=1&pid=ImgDetMain",
+                "price": 600,
+                "stock": 5,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "B3",
+                "anime": "Tokyo Ghoul",
+                "type": "backPack",
+                "name": "Kaneki Printed Backpack for Boys",
+                "image": "https://m.media-amazon.com/images/I/51elhaNOh-L._AC_UY1100_.jpg",
+                "price": 600,
+                "stock": 5,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "B4",
+                "anime": "Genshin Impact",
+                "type": "backPack",
+                "name": "All Powers Genshin Impact Backpact",
+                "image": "https://img.fruugo.com/product/8/54/407199548_max.jpg",
+                "price": 600,
+                "stock": 2,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "B5",
+                "anime": "Genshin Impact",
+                "type": "backPack",
+                "name": "Cool BackPack",
+                "image": "https://th.bing.com/th/id/OIP.78fcWPq3BGdBreiiQPFRMQHaHa?rs=1&pid=ImgDetMain",
+                "price": 600,
+                "stock": 5,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "B6",
+                "anime": "Fortnite",
+                "type": "backPack",
+                "name": "Cool BackPack",
+                "image": "https://spencers.scene7.com/is/image/Spencers/03618857-a?$Detail$",
+                "price": 600,
+                "stock": 5,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            }
+        ]
+    },
+    {
+        "id": "C",
+        "type": "t-shirt",
+        "availableProducts": [
+            {
+                "id": "C1",
+                "anime": "Jujutsu Kaisen",
+                "type": "t-shirt",
+                "name": "Gojo T-shirt",
+                "image": "https://i.etsystatic.com/26845242/r/il/6233df/3022225425/il_1140xN.3022225425_3tv0.jpg",
+                "price": 100,
+                "stock": 5,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "C2",
+                "anime": "Jujutsu Kaisen",
+                "type": "t-shirt",
+                "name": "Sukuna T-shirt",
+                "image": "https://i.etsystatic.com/26459479/r/il/32fced/3330056759/il_1588xN.3330056759_mzd9.jpg",
+                "price": 100,
+                "stock": 5,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "C3",
+                "anime": "Genshin Impact",
+                "type": "t-shirt",
+                "name": "Hakusuru T-shirt",
+                "image": "https://hakusuru.com/wp-content/uploads/2023/04/Genshin-Impact-T-Shirt-8.jpg",
+                "price": 100,
+                "stock": 5,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "C4",
+                "anime": "Genshin Impact",
+                "type": "t-shirt",
+                "name": "Yae-Miko T-shirt",
+                "image": "https://th.bing.com/th/id/OIP.c92bfVsysLoqAKkKN0o4cgHaHa?w=800&h=800&rs=1&pid=ImgDetMain",
+                "price": 100,
+                "stock": 5,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "C5",
+                "anime": "One Piece",
+                "type": "t-shirt",
+                "name": "Gojo T-shirt",
+                "image": "https://hooktab.com/wp-content/uploads/2024/07/luffy01.jpg",
+                "price": 100,
+                "stock": 5,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            }
+        ]
+    },
+    {
+        "id": "D",
+        "type": "stationary",
+        "availableProducts": [
+            {
+                "id": "D1",
+                "anime": "One Piece",
+                "type": "stationary",
+                "name": "Zoro printed one Piece NoteBooks",
+                "image": "https://ih1.redbubble.net/image.1916625708.2490/sn,x600-pad,600x600,f8f8f8.jpg",
+                "price": 100,
+                "stock": 5,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "D2",
+                "anime": "One Piece",
+                "type": "stationary",
+                "name": "Zoro printed one Piece NoteBooks",
+                "image": "https://ih1.redbubble.net/image.1844673998.9306/sn,x600-pad,600x600,f8f8f8.u1.jpg",
+                "price": 100,
+                "stock": 5,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "D3",
+                "anime": "Death Note",
+                "type": "stationary",
+                "name": "Reyuk's notebook finding a new owner",
+                "image": "https://down-ph.img.susercontent.com/file/95b07ddcd3102bdeb13d5cc8b5ae0229",
+                "price": 100,
+                "stock": 10,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "D4",
+                "anime": "Genshin Impact",
+                "type": "stationary",
+                "name": "Generic Hu Tao Anime pencil bag",
+                "image": "https://th.bing.com/th/id/R.e86b5b111ae6e7507ab0bc1c7e0a9bd3?rik=wzLbGplZF2EmFw&riu=http%3a%2f%2fae01.alicdn.com%2fkf%2fHe43ead33f5cd41a286ba82a6841326c1R.jpg&ehk=Mp%2fyq4BJUzNih9GG24iRVVz4eZNq24XqZF1eEr3IHOg%3d&risl=&pid=ImgRaw&r=0",
+                "price": 100,
+                "stock": 10,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "D5",
+                "anime": "Genshin Impact",
+                "type": "stationary",
+                "name": "Genshin Impact Pen/Pencil set",
+                "image": "https://lzd-img-global.slatic.net/g/p/3393868bf53503e441ca89e35cbf6830.jpg_720x720q80.jpg",
+                "price": 100,
+                "stock": 10,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "D6",
+                "anime": "Genshin Impact",
+                "type": "stationary",
+                "name": "Genshin Impact Mouse Mat",
+                "image": "https://genshin.global/wp-content/uploads/2022/06/mat-mouse-Hidden-Dreams-Depths-official-merch-genshin.webp",
+                "price": 100,
+                "stock": 10,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            }
+        ]
+    },
+    {
+        "id": "E",
+        "type": "keychain",
+        "availableProducts": [
+            {
+                "id": "E1",
+                "anime": "Cartoon",
+                "type": "keychain",
+                "name": "Cute Keychain Collecttion",
+                "image": "https://th.bing.com/th/id/OIP.ZySLBXponSwg8U6jz8fRIgHaHa?w=184&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+                "price": 100,
+                "stock": 5,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "E2",
+                "anime": "Spy X Family",
+                "type": "keychain",
+                "name": "Anya Family Kechain Collection",
+                "image": "https://i.etsystatic.com/24617142/r/il/8ca217/3901832525/il_fullxfull.3901832525_1nkf.jpg",
+                "price": 100,
+                "stock": 5,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "E3",
+                "anime": "Fairy Tail",
+                "type": "keychain",
+                "name": "Fairy Tail Keychains",
+                "image": "https://th.bing.com/th/id/R.097b2e80883a7848e64924d6c1026cf2?rik=9%2biZrM5vQeNtAg&riu=http%3a%2f%2fpm1.narvii.com%2f5847%2f8c7fb987766a93af47e2ed7d52dd155cb4151d4e_hq.jpg&ehk=Gwv8ctHVY1Z7Epc60UcveLBWcCppSveUheZ6%2bYVtnCA%3d&risl=&pid=ImgRaw&r=0",
+                "price": 100,
+                "stock": 10,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "E4",
+                "anime": "Demon Slayer",
+                "type": "keychain",
+                "name": "Demon Slayer Hashira Collection",
+                "image": "https://cf.shopee.com.my/file/706f5b098a2b9c3f95ae6e7484fb1930",
+                "price": 100,
+                "stock": 10,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "E5",
+                "anime": "Demon Slayer",
+                "type": "keychain",
+                "name": "Tanjiro KeyChain",
+                "image": "https://th.bing.com/th/id/OIP.Nm99-lvGS8lfMEUhOv5g7QHaHa?rs=1&pid=ImgDetMain",
+                "price": 10,
+                "stock": 10,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "E6",
+                "anime": "Anime",
+                "type": "keychain",
+                "name": "Anime Themed Acrylic Keychain",
+                "image": "https://i.etsystatic.com/27371217/r/il/e20ee7/3102520935/il_fullxfull.3102520935_8v98.jpg",
+                "price": 100,
+                "stock": 10,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            }
+        ]
+    },
+    {
+        "id":"X",
+        "type":"random",
+        "availableProducts":[
+            {
+                "id": "A2",
+                "anime": "Demon Slayer",
+                "type": "figure",
+                "name": "Zenitsu",
+                "image": "https://videogameheaven.com/wp-content/uploads/2020/12/Zenitsu-Agatsuma-Demon-Slayer-Kimetsu-no-Yaiba-Vol.-3-Figure-6.jpg",
+                "price": 1200,
+                "stock": 20,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "B2",
+                "anime": "Attack on titan",
+                "type": "backPack",
+                "name": "New Backpack for Girls",
+                "image": "https://th.bing.com/th/id/OIP.aDcSS17gi3md8zgDTkY-bwHaHa?rs=1&pid=ImgDetMain",
+                "price": 600,
+                "stock": 5,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "C2",
+                "anime": "Jujutsu Kaisen",
+                "type": "t-shirt",
+                "name": "Sukuna T-shirt",
+                "image": "https://i.etsystatic.com/26459479/r/il/32fced/3330056759/il_1588xN.3330056759_mzd9.jpg",
+                "price": 100,
+                "stock": 5,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "D2",
+                "anime": "One Piece",
+                "type": "stationary",
+                "name": "Zoro printed one Piece NoteBooks",
+                "image": "https://ih1.redbubble.net/image.1844673998.9306/sn,x600-pad,600x600,f8f8f8.u1.jpg",
+                "price": 100,
+                "stock": 5,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "D3",
+                "anime": "Death Note",
+                "type": "stationary",
+                "name": "Reyuk's notebook finding a new owner",
+                "image": "https://down-ph.img.susercontent.com/file/95b07ddcd3102bdeb13d5cc8b5ae0229",
+                "price": 100,
+                "stock": 10,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "D4",
+                "anime": "Genshin Impact",
+                "type": "stationary",
+                "name": "Generic Hu Tao Anime pencil bag",
+                "image": "https://th.bing.com/th/id/R.e86b5b111ae6e7507ab0bc1c7e0a9bd3?rik=wzLbGplZF2EmFw&riu=http%3a%2f%2fae01.alicdn.com%2fkf%2fHe43ead33f5cd41a286ba82a6841326c1R.jpg&ehk=Mp%2fyq4BJUzNih9GG24iRVVz4eZNq24XqZF1eEr3IHOg%3d&risl=&pid=ImgRaw&r=0",
+                "price": 100,
+                "stock": 10,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "D5",
+                "anime": "Genshin Impact",
+                "type": "stationary",
+                "name": "Genshin Impact Pen/Pencil set",
+                "image": "https://lzd-img-global.slatic.net/g/p/3393868bf53503e441ca89e35cbf6830.jpg_720x720q80.jpg",
+                "price": 100,
+                "stock": 10,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "D6",
+                "anime": "Genshin Impact",
+                "type": "stationary",
+                "name": "Genshin Impact Mouse Mat",
+                "image": "https://genshin.global/wp-content/uploads/2022/06/mat-mouse-Hidden-Dreams-Depths-official-merch-genshin.webp",
+                "price": 100,
+                "stock": 10,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "E1",
+                "anime": "Cartoon",
+                "type": "keychain",
+                "name": "Cute Keychain Collecttion",
+                "image": "https://th.bing.com/th/id/OIP.ZySLBXponSwg8U6jz8fRIgHaHa?w=184&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+                "price": 100,
+                "stock": 5,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            },
+            {
+                "id": "E2",
+                "anime": "Spy X Family",
+                "type": "keychain",
+                "name": "Anya Family Kechain Collection",
+                "image": "https://i.etsystatic.com/24617142/r/il/8ca217/3901832525/il_fullxfull.3901832525_1nkf.jpg",
+                "price": 100,
+                "stock": 5,
+                "images":[
+                    {"imgNum":1,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":2,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"},
+                    {"imgNum":3,"image": "https://rivalcomix.com/wp-content/uploads/2020/09/Demon-Slayer-Nezuko-Kamado-The-Third-Ichiban-Figure-1.jpg"}
+                ]
+            }
+
+        ]
+
+    }
+]
